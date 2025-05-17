@@ -85,6 +85,9 @@ Features used for training:
 
 > ⚠️ **Note:** Outliers in CE prices can cause abnormal returns — price clipping or normalization is recommended before production use.
 
+> ![image](https://github.com/user-attachments/assets/caa1beec-9fe8-4816-a6cd-a0b22cdfd756)
+
+
 ---
 
 ## 📦 Requirements
