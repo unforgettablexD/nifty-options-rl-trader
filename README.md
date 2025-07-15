@@ -75,8 +75,8 @@ Features used for training:
 | **Total Return** | **+400.24%** |
 | **Final Portfolio Value** | ₹500,244.86 |
 | **Max Drawdown** | 1.40% |
-| **Sharpe Ratio** | 90.54 |
-| **Sortino Ratio** | 223.20 |
+| **Sharpe Ratio** | 4.54 |
+| **Sortino Ratio** | 23.20 |
 | **Win Rate** | 95.8% |
 | **Profit Factor** | 88.3 |
 | **Avg Trade Duration** | ~6 min |
